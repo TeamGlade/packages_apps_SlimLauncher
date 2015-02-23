@@ -1,0 +1,6 @@
+[gerrit]
+host=gerrit.aogp-devs.com
+port=29418
+project=packages_apps_SlimLauncher.git
+defaultbranch=lp5.0
+
